@@ -1,2 +1,2 @@
 # DSC180A-Methodology-4
-Calvin Nguyen
+Calvin Nguyen and Kevin Chan
